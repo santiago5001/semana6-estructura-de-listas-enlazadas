@@ -1,0 +1,14 @@
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\semana6-estructura-de-listas-enlazadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\semana6-estructura-de-listas-enlazadas.AssemblyInfoInputs.cache
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\semana6-estructura-de-listas-enlazadas.AssemblyInfo.cs
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\semana6-estructura-de-listas-enlazadas.csproj.CoreCompileInputs.cache
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\bin\Debug\net10.0\semana6-estructura-de-listas-enlazadas.exe
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\bin\Debug\net10.0\semana6-estructura-de-listas-enlazadas.deps.json
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\bin\Debug\net10.0\semana6-estructura-de-listas-enlazadas.runtimeconfig.json
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\bin\Debug\net10.0\semana6-estructura-de-listas-enlazadas.dll
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\bin\Debug\net10.0\semana6-estructura-de-listas-enlazadas.pdb
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\semana6-estructura-de-listas-enlazadas.dll
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\refint\semana6-estructura-de-listas-enlazadas.dll
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\semana6-estructura-de-listas-enlazadas.pdb
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\semana6-estructura-de-listas-enlazadas.genruntimeconfig.cache
+C:\Proyectos UEA\semana6-estructura-de-listas-enlazadas\obj\Debug\net10.0\ref\semana6-estructura-de-listas-enlazadas.dll
